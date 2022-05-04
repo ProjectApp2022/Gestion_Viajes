@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Archivos&lt;T&gt;">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBBgACAEQgoACAABAAAAAACAAAAACAAAIAAAAAAAQ=</HashCode>
+      <FileName>Archivos.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedList&lt;T&gt;">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABASAEAIAAAAACAAEARAAAAAAEAAAAIAAYAAACAgA=</HashCode>
+      <FileName>Arreglo.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node&lt;T&gt;">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>Arreglo.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
